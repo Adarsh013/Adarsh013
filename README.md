@@ -1,22 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Adarsh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20GenAI%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarsh013/Adarsh013/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarsh013/Adarsh013/main/light.svg">
+  <img alt="Adarsh Gupta banner" src="https://raw.githubusercontent.com/Adarsh013/Adarsh013/main/dark.svg" width="100%">
+</picture>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;GenAI+%2F+RAG+Engineer;React+%2B+Spring+Boot;MCA+Student+%40+BIT+Mesra" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Location-India-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-![Status](https://img.shields.io/badge/🎓_MCA-BIT_Mesra_%2726--%2727-4C1D95?style=for-the-badge&labelColor=1a1a2e)
-
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://adarsh-portfolio-kohl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-gupta0/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshgupta7488@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh013)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-gupta0/)
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshgupta7488@gmail.com)
 
 <br/>
 
@@ -240,7 +234,7 @@ Collaborated with a team in a virtual internship to enhance web development skil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=A78BFA&icon_color=8B5CF6&text_color=e6e6e6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=A78BFA&icon_color=8B5CF6&text_color=e6e6e6&hide_rank=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh013&theme=tokyonight&hide_border=true&background=0d0f14&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=A78BFA&text_color=e6e6e6" width="49%"/>
@@ -279,7 +273,11 @@ Collaborated with a team in a virtual internship to enhance web development skil
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adarsh013/Adarsh013/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarsh013/Adarsh013/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarsh013/Adarsh013/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Adarsh013/Adarsh013/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
@@ -314,7 +312,7 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshgupta7488@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-gupta0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-gupta0/)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh013)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://adarsh-portfolio-kohl.vercel.app/)
 
@@ -327,7 +325,5 @@ current_focus:
 <div align="center">
 
 *"Build things that are fast, clean, and built to last."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
