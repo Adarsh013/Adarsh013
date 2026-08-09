@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarsh013/Adarsh013/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarsh013/Adarsh013/main/Dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarsh013/Adarsh013/main/light.svg">
   <img alt="Adarsh Gupta banner" src="https://raw.githubusercontent.com/Adarsh013/Adarsh013/main/dark.svg" width="100%">
 </picture>
@@ -234,10 +234,10 @@ Collaborated with a team in a virtual internship to enhance web development skil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=A78BFA&icon_color=8B5CF6&text_color=e6e6e6&hide_rank=true" width="49%"/>
+<img src="https://github-readme-stats-gamma-eight-17.vercel.app/api?username=Adarsh013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=A78BFA&icon_color=8B5CF6&text_color=e6e6e6&hide_rank=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh013&theme=tokyonight&hide_border=true&background=0d0f14&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=A78BFA&text_color=e6e6e6" width="49%"/>
+<img src="https://github-readme-stats-gamma-eight-17.vercel.app/api/top-langs/?username=Adarsh013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=A78BFA&text_color=e6e6e6" width="49%"/>
 
 </div>
 
